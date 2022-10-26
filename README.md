@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Yerbol</h1>
 <h3 align="center">Backend developer from Kazakhstan</h3>
-<img align = "right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/6c/93/de/6c93de2ae7118c79c79b750462814002.gif">
+<img align = "right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naubetov&label=Profile%20views&color=0e75b6&style=flat" alt="naubetov" /> </p>
 
 - 🌱 I’m currently learning **React native**
@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
