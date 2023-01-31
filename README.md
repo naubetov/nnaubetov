@@ -5,13 +5,11 @@
 <img align = "right" alt="Coding" width="400" src= "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naubetov&label=Profile%20views&color=0e75b6&style=flat" alt="naubetov" /> </p>
 
-- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **Backend developer**
 
 - 📫 How to reach me **erbol.naubetov22@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 
 h3 align="left">Languages and Tools:</h3>
