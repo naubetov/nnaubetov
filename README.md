@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Yerbol</h1>
 <h3 align="center"></h3>
 
-- I’m currently learning **AI/ML**
-- Ask me about **Backend developer**
-- How to reach me **erbol.naubetov22@gmail.com**
+- I’m currently learning: **AI/ML**
+- Ask me about: **Backend developer**
+- How to reach me: **erbol.naubetov22@gmail.com**
 
 
 
