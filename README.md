@@ -12,6 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naubetov&show_icons=true&locale=en&layout=compact" alt="naubetov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naubetov&show_icons=true&locale=en" alt="naubetov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naubetov&" alt="naubetov" /></p>
