@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yerbol</h1>
 <h3 align="center">Hello! I am a novice programmer and university student studying various programming languages and technologies. My GitHub profile serves as a place where I can showcase my projects and learn from the community. I am interested in various areas of programming including web development, cybersecurity and machine learning. I am currently learning C# and Python, but I also want to learn other languages and technologies. In my repository you can find my study projects, including apps and websites that I created during my studies. I also want to start working on my own projects and develop as a programmer. I am always open for communication and cooperation, so feel free to contact me if you have any questions or suggestions. Thanks for your support!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nnaubetov" alt="nnaubetov" /></a> </p>
-
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **erbol.naubetov22@gmail.com**
